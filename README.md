@@ -12,3 +12,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fturcq-santucci&show_icons=true&locale=en" alt="fturcq-santucci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fturcq-santucci&" alt="fturcq-santucci" /></p>
+
+[![snake gif](https://github.com](https://github.com/fturcq-santucci/fturcq-santucci/blob/output/github-contribution-grid-snake.gif)
