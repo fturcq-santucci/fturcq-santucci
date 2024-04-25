@@ -1,7 +1,7 @@
 <h1 align="center">Bonjours je m'appelle Frédéric Turcq-Santucci</h1>
 <h3 align="center">Je suis étudiant en Licence 3 Science pour l'ingénieur parcourt informatique à Corte</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fturcq-santucci&label=Profile%20views&color=0e75b6&style=flat" alt="fturcq-santucci" /> </p>
+<br />
 
 
 <h3 align="left">Languages and Tools:</h3>
