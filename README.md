@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, je m'appelle Frédéric Turcq-Santucci</h1>
-<h2 align="center">Ingénieur en Informatique</h2>
+<h2 align="center">Technicien Informatique</h2>
 
 <br />
 
